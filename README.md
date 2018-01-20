@@ -37,3 +37,7 @@ Set
 QTDIR = C:\Qt\5.10.0
 also added C:\Qt\5.10.0\msvc2017_64\bin to PATH
 ```
+
+## Running Triangular 3 demo
+copy C:\dev\CGAL-4.11\auxiliary\gmp\lib\libgmp-10.dll to t3_demo.exe folder
+
